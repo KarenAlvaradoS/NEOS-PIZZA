@@ -22,17 +22,11 @@ Este es un sitio web moderno y responsivo desarrollado como parte de un práctic
 ## 📂 Estructura del Proyecto
 
 NEOS-PIZZA/
-
 ├── index.html
-
 ├── styles.css
-
 ├── assets/
-
 │ └── img/
-
 │ └── neos-pizza.jpg
-
 └── README.md
 
 ## 🌐 Publicación
@@ -44,9 +38,6 @@ Puedes verlo accediendo al enlace generado por GitHub Pages una vez que se haya 
 
 **Desarrollado por:**  
 Estefanía Karen Alvarado Santi – Universidad Estatal Amazónica  
-
 Práctico Experimental #1 
-
 4TO SEMESTRE TICs
-
 PERÍODO 2025-2025

@@ -1,0 +1,35 @@
+/* Estilo personalizado para botón principal */
+.btn-primary {
+  background-color: #ff5733;
+  border: none;
+}
+
+/* Efecto hover en el botón */
+.btn-primary:hover {
+  background-color: #e04e2e;
+  transform: scale(1.05);
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+/* Estilo visual para las tarjetas (cards) */
+.card {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  transition: transform 0.2s ease-in-out;
+}
+
+/* Efecto hover en las tarjetas */
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* Media query para pantallas pequeñas (como celulares) */
+@media (max-width: 576px) {
+  body {
+    background-color: #fff3e0; /* fondo suave en móviles */
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+}
